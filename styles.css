@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+input[type="text"] {
+    border: none;
+}
+input[type="radio"] {
+    appearance: none;
+    border: 1px solid black;
+    height: 14px;
+    width: 16px;
+    border-radius: 50%;
+    background-color: white;
+}
